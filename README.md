@@ -14,6 +14,7 @@ A collection of useful LLM (or related) articles, blog posts, papers, concepts, 
   1.  The first level of search decides which group of PDF’s to look at. A group at this level could be based on sub-topics.
   2.  The second level of search decides which specific PDF to look at.
   3.  The third level of search decides which specific chunks to use for the context.
+
   An architecture like this will drastically reduce the compute complexity of the retrieval task and save you time.
 
 
