@@ -15,6 +15,6 @@ A collection of useful LLM (or related) articles, blog posts, papers, concepts, 
   2.  The second level of search decides which specific PDF to look at.
   3.  The third level of search decides which specific chunks to use for the context.
 
-  An architecture like this will drastically reduce the compute complexity of the retrieval task and save you time.
+    An architecture like this will drastically reduce the compute complexity of the retrieval task and save you time.
 
 
