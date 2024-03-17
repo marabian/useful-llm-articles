@@ -18,3 +18,6 @@ A collection of useful LLM (or related) articles, blog posts, papers, concepts, 
     An architecture like this will drastically reduce the compute complexity of the retrieval task and save you time.
 
 
+## Training
+
+* [Mixture of Experts](https://www.tensorops.ai/post/what-is-mixture-of-experts-llm)
